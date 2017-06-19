@@ -25,3 +25,5 @@
 ## 语言如何表达模式
 
 ### Corpus Pattern Analysis
+
+> in processing...
