@@ -10,7 +10,7 @@ lex(t_这个, det).
 lex(t_一个, det).
 lex(t_女人, n).
 lex(t_男人, n).
-lex(t_射杀了, v).
+lex(t_看到了, v).
 
 main :- s(X,[]), write(X), nl, fail.
 
