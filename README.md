@@ -1,4 +1,4 @@
-# 中文的语料库模式分析(Corpus Pattern Analysis)
+# 汉语的语料库模式分析(Corpus Pattern Analysis)
 
 ## 计划：
 1. 同义词
