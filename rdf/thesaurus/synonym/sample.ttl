@@ -11,8 +11,47 @@
   owl:members  ( :Woman  :Man ) .
 ] .
 
+:Mother  owl:equivalentClass
+[
+  rdf:type            owl:Class ;
+  owl:intersectionOf  ( :Woman :Parent )
+] .
+
 :Parent owl:equivalentClass
 [
   rdf:type     owl:Class ;
   owl:unionOf  ( :Mother :Father )
 ] .
+
+:ChildlessPerson  owl:equivalentClass
+[
+  rdf:type            owl:Class ;
+  owl:intersectionOf
+  (
+    :Person
+    [
+      rdf:type          owl:Class ;
+      owl:complementOf  :Parent
+    ]
+  )
+] .
+
+:Grandfather  rdfs:subClassOf
+[
+  rdf:type            owl:Class ;
+  owl:intersectionOf  ( :Man  :Parent )
+] .
+
+:Jack  rdf:type
+[
+  rdf:type            owl:Class ;
+  owl:intersectionOf
+  (
+    :Person
+    [
+      rdf:type          owl:Class ;
+      owl:complementOf  :Parent
+    ]
+  )
+] .
+
