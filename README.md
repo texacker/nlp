@@ -11,3 +11,6 @@
 1. 抽取单句
 1. 单句的 DCG 分析
 1. 复句的 DCG 分析
+
+##  References
+1. Fernando Pereira, Stuart Shieber, _"Prolog and Natural-Language Analysis"_, [Microtome Publishing](http://www.mtome.com/Publications/PNLA/pnla.html), 2005.
