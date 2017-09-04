@@ -13,4 +13,5 @@
 1. 复句的 DCG 分析
 
 ##  References
+1. [Pattern Dictionary of English Verbs](http://www.pdev.org.uk/)
 1. Fernando Pereira, Stuart Shieber, _"Prolog and Natural-Language Analysis"_, [Microtome Publishing](http://www.mtome.com/Publications/PNLA/pnla.html), 2005.
