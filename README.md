@@ -15,3 +15,4 @@
 ##  References
 1. [Pattern Dictionary of English Verbs](http://www.pdev.org.uk/)
 1. Fernando Pereira, Stuart Shieber, _[Prolog and Natural-Language Analysis](http://www.mtome.com/Publications/PNLA/pnla.html)_, Microtome Publishing, 2005.
+1. Ivan Bratko, _Prolog Programming for Artificial Intelligence_, Pearson Education Canada, 4th ed., 2011.
