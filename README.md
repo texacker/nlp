@@ -10,8 +10,8 @@
 ## 计划：
 1. 整理金融/财经类新闻语料
 1. 抽取单句
-1. 单句的 DCG 分析
-1. 复句的 DCG 分析
+1. 单句的分析(Declarative)
+1. 复句的分析(Generative)
 
 ##  References
 1. [Pattern Dictionary of English Verbs](http://www.pdev.org.uk/).
