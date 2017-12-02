@@ -1,17 +1,12 @@
 # 汉语的语料库模式分析(Corpus Pattern Analysis)
 
-## 分类：
-1. 同义词
-1. 修饰结构
-1. 简单句式
-1. 复合句式
-1. 复杂句式
-
 ## 计划：
-1. 整理金融/财经类新闻语料
-1. 抽取单句
-1. 单句的分析(Declarative)
-1. 复句的分析(Generative)
+1. 现代汉语词汇本体
+1. 现代汉语基本句型
+   1. 整理金融/财经类新闻语料
+   1. 抽取单句
+   1. 单句的分析(Declarative)
+   1. 复句的分析(Generative)
 
 ##  References
 1. [Pattern Dictionary of English Verbs](http://www.pdev.org.uk/).
