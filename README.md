@@ -4,9 +4,9 @@
 1. 现代汉语词汇本体
 1. 现代汉语基本句型
    1. 整理语料
-   1. 抽取单句
-   1. 单句的分析(Declarative)
-   1. 复句的分析(Generative)
+   1. 抽取句型
+   1. 单句(Declarative)
+   1. 复句(Generative)
 
 ##  References
 1. [Pattern Dictionary of English Verbs](http://www.pdev.org.uk/).
