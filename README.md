@@ -10,6 +10,7 @@
 
 ##  References
 1. [Pattern Dictionary of English Verbs](http://www.pdev.org.uk/).
+1. 梅家驹等, _同义词词林（第二版）_, 上海辞书出版社
 1. 李临定, _[现代汉语句型（增订本）](http://item.jd.com/10620311.html)_, 商务印书馆
 1. _现代汉语基本句型_, 世界汉语教学, 1989年, 第1期
 1. Fernando Pereira, Stuart Shieber, _[Prolog and Natural-Language Analysis](http://www.mtome.com/Publications/PNLA/pnla.html)_, Microtome Publishing, 2005.
