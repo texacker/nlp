@@ -22,4 +22,4 @@ xNN 们无法根本解决 NLP 问题并在步入歧途。
 1. _现代汉语基本句型_, 世界汉语教学, 1989年, 第1期
 1. Fernando Pereira, Stuart Shieber, _[Prolog and Natural-Language Analysis](http://www.mtome.com/Publications/PNLA/pnla.html)_, Microtome Publishing, 2005.
 1. Ivan Bratko, _Prolog Programming for Artificial Intelligence_, Pearson Education Canada, 4th ed., 2011.
-1. [李彦宏：AI模仿人脑是走不通的](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/81981055).
+1. [李彦宏：AI模仿人脑是走不通的](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/81981055)
