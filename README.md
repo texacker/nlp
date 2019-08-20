@@ -27,3 +27,4 @@ xNN 们无法根本解决 NLP 问题并在步入歧途。
 1. Fernando Pereira, Stuart Shieber, _[Prolog and Natural-Language Analysis](http://www.mtome.com/Publications/PNLA/pnla.html)_, Microtome Publishing, 2005.
 1. Ivan Bratko, _Prolog Programming for Artificial Intelligence_, Pearson Education Canada, 4th ed., 2011.
 1. [李彦宏：AI模仿人脑是走不通的](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/81981055)
+1. [现代汉语词性](https://baike.baidu.com/item/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E6%80%A7/9423951?fr=aladdin)
